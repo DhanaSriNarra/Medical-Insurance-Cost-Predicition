@@ -1,0 +1,13 @@
+region,charges,bmi,age,children,smoker
+"Management, professional, and related occupations",72.0,49.72,6.76,3.21,4.92
+"Management, business, and financial occupations",81.72,55.56,7.92,4.4,5.68
+Professional and related occupations,66.53,46.43,6.1,2.53,4.49
+Sales and office occupations,32.3,23.5,2.18,0.94,2.48
+Sales and related occupations,31.94,24.41,1.93,0.84,1.64
+Office and administrative support occupations,32.6,22.77,2.37,1.02,3.17
+Service occupations,21.55,16.68,0.92,0.52,1.12
+"Natural resources, construction, and maintenance occupations",44.47,30.3,2.38,1.77,3.63
+"Construction, extraction, farming, fishing, and forestry occupations",43.19,29.66,1.68,1.77,3.46
+"Installation, maintenance, and repair occupations",45.82,30.97,3.11,1.77,3.8
+"Production, transportation, and material moving occupations",34.34,23.45,2.07,1.59,3.22
+Production occupations,34.2,22.72,2.12,2.17,3.57
